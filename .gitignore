@@ -1,0 +1,6 @@
+package-lock.json
+.DS_Store
+.idea/
+node_modules/
+.vscode/
+.env

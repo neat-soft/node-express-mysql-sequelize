@@ -1,0 +1,24 @@
+  
+{
+    "development": {
+      "username": "",
+      "password": "",
+      "database": "node-demo-app",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "staging": {
+      "username": "",
+      "password": "",
+      "database": "node-demo-app",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "",
+      "password": "",
+      "database": "",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  }
